@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+}
+
+.reservation-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 2em;
+}
+
+.customer-container {
+    margin: 0em 5em 0em 3em;
+}
+
+.menu-container {
+    margin: 0em 5em 0em 3em;
+
+}
+
+.customers-list {
+    cursor: pointer;
+}
+
+.customer-div {
+    /* display: flex; */
+}
